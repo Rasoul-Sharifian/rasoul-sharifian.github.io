@@ -3,7 +3,7 @@
 ---
 ### Publication
 
-- [Kidney Tracking in laparoscopy using stereo](http://example.com/)
+- [Kidney Tracking for live augmented reality by stereoscopic camera](http://example.com/)
 - [Lower esophagous endoscopy image segmentation](http://example.com/)
 
 ---
