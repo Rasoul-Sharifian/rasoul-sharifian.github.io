@@ -3,7 +3,7 @@
 ---
 ### Publication
 
-- [Kidney stero laparoscopy tracking](http://example.com/)
+- [Kidney Tracking in laparoscopy using stereo](http://example.com/)
 - [Lower esophagous endoscopy image segmentation](http://example.com/)
 
 ---
